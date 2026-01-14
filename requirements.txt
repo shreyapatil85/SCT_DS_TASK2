@@ -1,0 +1,12 @@
+Requirements
+Python 3.x
+
+Google Colab or Jupyter Notebook
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Note: All required libraries are pre-installed in Google Colab.
